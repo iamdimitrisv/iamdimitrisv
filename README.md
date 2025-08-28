@@ -1,4 +1,5 @@
 Welcome to my profile!
+<br>
 A front-end web developer that makes pixels into reality.
 
 Languages & Frameworks
